@@ -18,9 +18,9 @@ int main(int argc, char** argv) {
 	if(temperatura >= 37){
 		
 <<<<<<< HEAD
-		cout<<"necesitas chequeo de un medico, pues tienes uno de los sintomas de virus 19"<<endl;
+		cout<<"necesitas chequeo de un medico, pues tienes uno de los sintomas de virus "<<endl;
 =======
-		cout<<"necesitas chequeo de un medico, pues tienes uno de los sintomas de virus19"<<endl;
+		cout<<"necesitas chequeo de un medico, pues tienes uno de los sintomas de virus"<<endl;
 >>>>>>> 0c3fade09289c8fc06a73ff675e0c5259a2e0536
 		
 	}else{
